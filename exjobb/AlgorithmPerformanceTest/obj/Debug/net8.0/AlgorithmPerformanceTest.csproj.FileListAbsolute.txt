@@ -1,0 +1,14 @@
+/home/tahakhudher/Documents/exjobb/AlgorithmPerformanceTest/bin/Debug/net8.0/AlgorithmPerformanceTest
+/home/tahakhudher/Documents/exjobb/AlgorithmPerformanceTest/bin/Debug/net8.0/AlgorithmPerformanceTest.deps.json
+/home/tahakhudher/Documents/exjobb/AlgorithmPerformanceTest/bin/Debug/net8.0/AlgorithmPerformanceTest.runtimeconfig.json
+/home/tahakhudher/Documents/exjobb/AlgorithmPerformanceTest/bin/Debug/net8.0/AlgorithmPerformanceTest.dll
+/home/tahakhudher/Documents/exjobb/AlgorithmPerformanceTest/bin/Debug/net8.0/AlgorithmPerformanceTest.pdb
+/home/tahakhudher/Documents/exjobb/AlgorithmPerformanceTest/obj/Debug/net8.0/AlgorithmPerformanceTest.GeneratedMSBuildEditorConfig.editorconfig
+/home/tahakhudher/Documents/exjobb/AlgorithmPerformanceTest/obj/Debug/net8.0/AlgorithmPerformanceTest.AssemblyInfoInputs.cache
+/home/tahakhudher/Documents/exjobb/AlgorithmPerformanceTest/obj/Debug/net8.0/AlgorithmPerformanceTest.AssemblyInfo.cs
+/home/tahakhudher/Documents/exjobb/AlgorithmPerformanceTest/obj/Debug/net8.0/AlgorithmPerformanceTest.csproj.CoreCompileInputs.cache
+/home/tahakhudher/Documents/exjobb/AlgorithmPerformanceTest/obj/Debug/net8.0/AlgorithmPerformanceTest.dll
+/home/tahakhudher/Documents/exjobb/AlgorithmPerformanceTest/obj/Debug/net8.0/refint/AlgorithmPerformanceTest.dll
+/home/tahakhudher/Documents/exjobb/AlgorithmPerformanceTest/obj/Debug/net8.0/AlgorithmPerformanceTest.pdb
+/home/tahakhudher/Documents/exjobb/AlgorithmPerformanceTest/obj/Debug/net8.0/AlgorithmPerformanceTest.genruntimeconfig.cache
+/home/tahakhudher/Documents/exjobb/AlgorithmPerformanceTest/obj/Debug/net8.0/ref/AlgorithmPerformanceTest.dll
